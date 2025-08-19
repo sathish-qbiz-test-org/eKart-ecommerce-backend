@@ -1,4 +1,4 @@
-# Ekart Shopping - An E-commerce Backend API
+# Ekart Shopping - An E-commerce Backend API some changes
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ved-asole_eKart-ecommerce-backend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ved-asole_eKart-ecommerce-backend)
 [![Maven Checks](https://github.com/ved-asole/eKart-ecommerce-backend/actions/workflows/maven-checks.yml/badge.svg)](https://github.com/ved-asole/eKart-ecommerce-backend/actions/workflows/maven-checks.yml)
